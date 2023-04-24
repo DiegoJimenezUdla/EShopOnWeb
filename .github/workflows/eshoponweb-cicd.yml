@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 64a149c1-5d3b-4bdc-a704-197997092028
-  WEBAPP-NAME: az400-webapp-EShopOnWeb
+  WEBAPP-NAME: az400-webapp-EShopOnWeb-GitWF
 
 jobs:
   #Build, test and publish .net web project in repository
